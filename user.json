@@ -8,5 +8,5 @@
     {"id":107,"name":"JEROME CHACKO","type":"free","age":20,"designation":"STUDENT"},
     {"id":108,"name":"AMIL JOHN","type":"free","age":40,"designation":"CRIMINAL LAWYER"},
     {"id":109,"name":"RIJO PATERICK","type":"free","age":20,"designation":"STUDENT"},
-    {"id":110,"name":"BRIGHT MASSEY","type":"premium","age":45,designation:"LEGAL ANALYST"}
+    {"id":110,"name":"BRIGHT MASSEY","type":"premium","age":45,"designation":"LEGAL ANALYST"}
 ]}
